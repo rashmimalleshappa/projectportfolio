@@ -1,10 +1,22 @@
 
 # Purchases, Sales and Inventory
 
-This project showcases my ability to leverage Power BI for comprehensive business analysis. I integrated data from three independent sources (Purchases, Receiving, Billing) to create a single-page summary with key performance indicators (KPIs) for a warehouse.
+
+# Problem Statement
+A Warehouse business reporting system lacks the ability to analyze the flow of goods from purchase order to sale. This creates a blind spot, hindering their understanding of inventory turnaround time and potential inefficiencies in the purchasing and sales processes.
+
+# Business Requirements
+
+1. Combine data from three separate datasets (Purchases, Receiving, Billing) with no pre-existing relationships between them.
+2. Measure the time elapsed between placing a purchase order and receiving the goods into the warehouse.
+3. Determine the time between receiving goods and billing the customer.
+4. Create a summary report presenting the calculated lead times, sales cycle analysis, and billing insights.
+
+# Solution
 
 The Purchases data tells us when we ordered products and how many, while Receiving data reveals how long it takes for goods to arrive after placing an order. Then, we analyze Billing data to see how quickly we invoice customers after receiving goods.
-Data Transformation and Modelling- 
+
+# Data Transformation and Modelling- 
 1. Imported tables from the dataset
 2. Extended Date Table was added as [Date]
 3. Identified Fact and Dimension tables
