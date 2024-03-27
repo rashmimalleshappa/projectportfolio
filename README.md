@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio showcasing a diverse array of Power BI Dashboards
 
 # Dashboard projects
 
-1. [Project 1- Warehouse Dashboard]
+1. [Project 1- Warehouse Dashboard](https://github.com/rashmimalleshappa/projectportfolio/tree/9548e472fc0a9557a2a5dd6e537da3f1f8bbb4e5/Warehouse%20Dashboard)
 2. [Project 2- HR Insights Dashboard]
 
 Within each project folder in this repository, you'll discover a detailed README.md file outlining the dashboard's purpose, utilized data sources, and any relevant information. Additionally, accompanying screenshots offer a visual preview of the dashboard's interface.
