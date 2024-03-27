@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio showcasing a diverse array of Power BI Dashboards
 
 # Dashboard projects
 
-1. [Project 1- Warehouse Dashboard](Purchases Sales and Inventory.pbix)
+1. [Project 1- Warehouse Dashboard](Warehouse Dashboard)
 2. [Project 2- HR Insights Dashboard]
 
 Within each project folder in this repository, you'll discover a detailed README.md file outlining the dashboard's purpose, utilized data sources, and any relevant information. Additionally, accompanying screenshots offer a visual preview of the dashboard's interface.
